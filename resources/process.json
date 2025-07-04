@@ -1,0 +1,130 @@
+[
+    {
+        "pid": 1,
+        "vruntime": 10,
+        "cpu_burst_time": 50,
+        "priority": 1,
+        "processState": { "counter": 100 },
+        "processNature": "IO_BOUND"
+    },
+    {
+        "pid": 2,
+        "vruntime": 15,
+        "cpu_burst_time": 40,
+        "priority": 2,
+        "processState": { "counter": 50 },
+        "processNature": "CPU_BOUND"
+    },
+    {
+        "pid": 3,
+        "vruntime": 12,
+        "cpu_burst_time": 60,
+        "priority": 1,
+        "processState": { "counter": 75 },
+        "processNature": "IO_BOUND"
+    },
+    {
+        "pid": 4,
+        "vruntime": 20,
+        "cpu_burst_time": 30,
+        "priority": 3,
+        "processState": { "counter": 30 },
+        "processNature": "CPU_BOUND"
+    },
+    {
+        "pid": 5,
+        "vruntime": 10,
+        "cpu_burst_time": 45,
+        "priority": 1,
+        "processState": { "counter": 110 },
+        "processNature": "IO_BOUND"
+    },
+    {
+        "pid": 6,
+        "vruntime": 18,
+        "cpu_burst_time": 35,
+        "priority": 2,
+        "processState": { "counter": 45 },
+        "processNature": "CPU_BOUND"
+    },
+    {
+        "pid": 7,
+        "vruntime": 14,
+        "cpu_burst_time": 40,
+        "priority": 1,
+        "processState": { "counter": 90 },
+        "processNature": "IO_BOUND"
+    },
+    {
+        "pid": 8,
+        "vruntime": 16,
+        "cpu_burst_time": 25,
+        "priority": 3,
+        "processState": { "counter": 35 },
+        "processNature": "CPU_BOUND"
+    },
+    {
+        "pid": 9,
+        "vruntime": 13,
+        "cpu_burst_time": 55,
+        "priority": 2,
+        "processState": { "counter": 70 },
+        "processNature": "IO_BOUND"
+    },
+    {
+        "pid": 10,
+        "vruntime": 19,
+        "cpu_burst_time": 28,
+        "priority": 2,
+        "processState": { "counter": 40 },
+        "processNature": "CPU_BOUND"
+    },
+    {
+        "pid": 11,
+        "vruntime": 11,
+        "cpu_burst_time": 48,
+        "priority": 1,
+        "processState": { "counter": 95 },
+        "processNature": "IO_BOUND"
+    },
+    {
+        "pid": 12,
+        "vruntime": 17,
+        "cpu_burst_time": 32,
+        "priority": 3,
+        "processState": { "counter": 50 },
+        "processNature": "CPU_BOUND"
+    },
+    {
+        "pid": 13,
+        "vruntime": 21,
+        "cpu_burst_time": 20,
+        "priority": 1,
+        "processState": { "counter": 25 },
+        "processNature": "IO_BOUND"
+    },
+    {
+        "pid": 14,
+        "vruntime": 22,
+        "cpu_burst_time": 42,
+        "priority": 2,
+        "processState": { "counter": 80 },
+        "processNature": "CPU_BOUND"
+    },
+    {
+        "pid": 15,
+        "vruntime": 9,
+        "cpu_burst_time": 36,
+        "priority": 2,
+        "processState": { "counter": 65 },
+        "processNature": "IO_BOUND"
+    },
+    {
+        "pid": 16,
+        "vruntime": 23,
+        "cpu_burst_time": 60,
+        "priority": 3,
+        "processState": { "counter": 90 },
+        "processNature": "CPU_BOUND"
+    }
+]
